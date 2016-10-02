@@ -1,0 +1,33 @@
+{
+  "name": "xhoskin",
+  "version": "0.0.1",
+  "description": "Руководство по стилю кода от @xhoskin",
+  "main": "Gruntfile.js",
+  "dependencies": {
+    "grunt": "~1.0.1",
+    "grunt-cli": "~1.2.0",
+    "grunt-markdown": "~0.7.0",
+    "grunt-contrib-watch": "~1.0.0"
+  },
+  "devDependencies": {
+    "grunt-markdown": "^0.7.0",
+    "grunt-contrib-watch": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xhoskin/styleguide"
+  },
+  "keywords": [
+    "css",
+    "styleguide"
+  ],
+  "author": "xhoskin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xhoskin/styleguide/issues"
+  },
+  "homepage": "https://github.com/xhoskin/styleguide"
+}
