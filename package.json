@@ -4,8 +4,8 @@
   "description": "Руководство по стилю кода от @xhoskin",
   "main": "Gruntfile.js",
   "dependencies": {
-    "grunt": "~1.0.1",
-    "grunt-cli": "~1.2.0",
+    "grunt": "latest",
+    "grunt-cli": "latest",
     "grunt-markdown": "~0.7.0",
     "grunt-contrib-watch": "~1.0.0"
   },
