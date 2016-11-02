@@ -245,8 +245,9 @@ TODO: (c) McFarland
 Исключения
 ```
 // Допустимые сокращения
-descr
-btn
+descr - description
+btn - button
+anim - animation
 // TODO: добавить еще
 ```
 
